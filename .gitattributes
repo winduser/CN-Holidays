@@ -1,0 +1,2 @@
+# RFC 5545 requires CRLF line endings; keep the calendar byte-exact.
+*.ics -text
