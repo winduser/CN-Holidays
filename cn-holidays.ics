@@ -4,10 +4,10 @@ PRODID:-//CN-Holidays//Statutory Holidays of China//ZH
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:中国法定节假日
-X-WR-CALDESC:全体公民放假的法定节假日（2027年）。依据《
- 国务院关于修改〈全国年节及纪念日放假办法〉的决定
- 》（国务院令第795号）。本日历列出法定假日及其周末
- 补假，不含调休和补班安排。
+X-WR-CALDESC:全体公民放假的法定节假日（2027—2030年）。依
+ 据《国务院关于修改〈全国年节及纪念日放假办法〉的
+ 决定》（国务院令第795号）。本日历列出法定假日及其
+ 周末补假，不含调休和补班安排。
 X-WR-TIMEZONE:Asia/Shanghai
 REFRESH-INTERVAL;VALUE=DURATION:P1W
 X-PUBLISHED-TTL:P1W
@@ -141,6 +141,363 @@ DESCRIPTION:国庆节假日有2天适逢周六、周日，依《全国年
  务院关于修改〈全国年节及纪念日放假办法〉的决定》
  （国务院令第795号）。本日历列出法定假日及其周末补
  假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2028-new-years-day@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:元旦
+DESCRIPTION:法定节假日，全体公民放假1天（1月1日）。依据
+ 《国务院关于修改〈全国年节及纪念日放假办法〉的决
+ 定》（国务院令第795号）。本日历列出法定假日及其周
+ 末补假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2028-new-years-day-make-up@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20280103
+DTEND;VALUE=DATE:20280104
+SUMMARY:元旦补假
+DESCRIPTION:元旦假日有1天适逢周六、周日，依《全国年节
+ 及纪念日放假办法》第六条在工作日补假。依据《国务
+ 院关于修改〈全国年节及纪念日放假办法〉的决定》（
+ 国务院令第795号）。本日历列出法定假日及其周末补假
+ ，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2028-spring-festival@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20280125
+DTEND;VALUE=DATE:20280129
+SUMMARY:春节
+DESCRIPTION:法定节假日，全体公民放假4天（农历除夕、正
+ 月初一至初三）。依据《国务院关于修改〈全国年节及
+ 纪念日放假办法〉的决定》（国务院令第795号）。本日
+ 历列出法定假日及其周末补假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2028-qingming@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20280404
+DTEND;VALUE=DATE:20280405
+SUMMARY:清明节
+DESCRIPTION:法定节假日，全体公民放假1天（农历清明当日
+ ）。依据《国务院关于修改〈全国年节及纪念日放假办
+ 法〉的决定》（国务院令第795号）。本日历列出法定假
+ 日及其周末补假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2028-labour-day@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280503
+SUMMARY:劳动节
+DESCRIPTION:法定节假日，全体公民放假2天（5月1日、2日）
+ 。依据《国务院关于修改〈全国年节及纪念日放假办法
+ 〉的决定》（国务院令第795号）。本日历列出法定假日
+ 及其周末补假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2028-dragon-boat@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20280528
+DTEND;VALUE=DATE:20280529
+SUMMARY:端午节
+DESCRIPTION:法定节假日，全体公民放假1天（农历端午当日
+ ）。依据《国务院关于修改〈全国年节及纪念日放假办
+ 法〉的决定》（国务院令第795号）。本日历列出法定假
+ 日及其周末补假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2028-dragon-boat-make-up@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20280529
+DTEND;VALUE=DATE:20280530
+SUMMARY:端午节补假
+DESCRIPTION:端午节假日有1天适逢周六、周日，依《全国年
+ 节及纪念日放假办法》第六条在工作日补假。依据《国
+ 务院关于修改〈全国年节及纪念日放假办法〉的决定》
+ （国务院令第795号）。本日历列出法定假日及其周末补
+ 假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2028-national-day@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20281001
+DTEND;VALUE=DATE:20281004
+SUMMARY:国庆节
+DESCRIPTION:法定节假日，全体公民放假3天（10月1日、2日、3
+ 日）。依据《国务院关于修改〈全国年节及纪念日放假
+ 办法〉的决定》（国务院令第795号）。本日历列出法定
+ 假日及其周末补假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2028-national-day-make-up@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20281004
+DTEND;VALUE=DATE:20281005
+SUMMARY:国庆节补假
+DESCRIPTION:国庆节假日有1天适逢周六、周日，依《全国年
+ 节及纪念日放假办法》第六条在工作日补假。依据《国
+ 务院关于修改〈全国年节及纪念日放假办法〉的决定》
+ （国务院令第795号）。本日历列出法定假日及其周末补
+ 假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2028-mid-autumn@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20281003
+DTEND;VALUE=DATE:20281004
+SUMMARY:中秋节
+DESCRIPTION:法定节假日，全体公民放假1天（农历中秋当日
+ ）。依据《国务院关于修改〈全国年节及纪念日放假办
+ 法〉的决定》（国务院令第795号）。本日历列出法定假
+ 日及其周末补假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2029-new-years-day@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20290101
+DTEND;VALUE=DATE:20290102
+SUMMARY:元旦
+DESCRIPTION:法定节假日，全体公民放假1天（1月1日）。依据
+ 《国务院关于修改〈全国年节及纪念日放假办法〉的决
+ 定》（国务院令第795号）。本日历列出法定假日及其周
+ 末补假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2029-spring-festival@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20290212
+DTEND;VALUE=DATE:20290216
+SUMMARY:春节
+DESCRIPTION:法定节假日，全体公民放假4天（农历除夕、正
+ 月初一至初三）。依据《国务院关于修改〈全国年节及
+ 纪念日放假办法〉的决定》（国务院令第795号）。本日
+ 历列出法定假日及其周末补假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2029-qingming@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20290404
+DTEND;VALUE=DATE:20290405
+SUMMARY:清明节
+DESCRIPTION:法定节假日，全体公民放假1天（农历清明当日
+ ）。依据《国务院关于修改〈全国年节及纪念日放假办
+ 法〉的决定》（国务院令第795号）。本日历列出法定假
+ 日及其周末补假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2029-labour-day@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20290501
+DTEND;VALUE=DATE:20290503
+SUMMARY:劳动节
+DESCRIPTION:法定节假日，全体公民放假2天（5月1日、2日）
+ 。依据《国务院关于修改〈全国年节及纪念日放假办法
+ 〉的决定》（国务院令第795号）。本日历列出法定假日
+ 及其周末补假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2029-dragon-boat@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20290616
+DTEND;VALUE=DATE:20290617
+SUMMARY:端午节
+DESCRIPTION:法定节假日，全体公民放假1天（农历端午当日
+ ）。依据《国务院关于修改〈全国年节及纪念日放假办
+ 法〉的决定》（国务院令第795号）。本日历列出法定假
+ 日及其周末补假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2029-dragon-boat-make-up@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20290618
+DTEND;VALUE=DATE:20290619
+SUMMARY:端午节补假
+DESCRIPTION:端午节假日有1天适逢周六、周日，依《全国年
+ 节及纪念日放假办法》第六条在工作日补假。依据《国
+ 务院关于修改〈全国年节及纪念日放假办法〉的决定》
+ （国务院令第795号）。本日历列出法定假日及其周末补
+ 假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2029-mid-autumn@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20290922
+DTEND;VALUE=DATE:20290923
+SUMMARY:中秋节
+DESCRIPTION:法定节假日，全体公民放假1天（农历中秋当日
+ ）。依据《国务院关于修改〈全国年节及纪念日放假办
+ 法〉的决定》（国务院令第795号）。本日历列出法定假
+ 日及其周末补假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2029-mid-autumn-make-up@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20290924
+DTEND;VALUE=DATE:20290925
+SUMMARY:中秋节补假
+DESCRIPTION:中秋节假日有1天适逢周六、周日，依《全国年
+ 节及纪念日放假办法》第六条在工作日补假。依据《国
+ 务院关于修改〈全国年节及纪念日放假办法〉的决定》
+ （国务院令第795号）。本日历列出法定假日及其周末补
+ 假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2029-national-day@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20291001
+DTEND;VALUE=DATE:20291004
+SUMMARY:国庆节
+DESCRIPTION:法定节假日，全体公民放假3天（10月1日、2日、3
+ 日）。依据《国务院关于修改〈全国年节及纪念日放假
+ 办法〉的决定》（国务院令第795号）。本日历列出法定
+ 假日及其周末补假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2030-new-years-day@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:元旦
+DESCRIPTION:法定节假日，全体公民放假1天（1月1日）。依据
+ 《国务院关于修改〈全国年节及纪念日放假办法〉的决
+ 定》（国务院令第795号）。本日历列出法定假日及其周
+ 末补假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2030-spring-festival@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20300202
+DTEND;VALUE=DATE:20300206
+SUMMARY:春节
+DESCRIPTION:法定节假日，全体公民放假4天（农历除夕、正
+ 月初一至初三）。依据《国务院关于修改〈全国年节及
+ 纪念日放假办法〉的决定》（国务院令第795号）。本日
+ 历列出法定假日及其周末补假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2030-spring-festival-make-up@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20300206
+DTEND;VALUE=DATE:20300208
+SUMMARY:春节补假
+DESCRIPTION:春节假日有2天适逢周六、周日，依《全国年节
+ 及纪念日放假办法》第六条在工作日补假。依据《国务
+ 院关于修改〈全国年节及纪念日放假办法〉的决定》（
+ 国务院令第795号）。本日历列出法定假日及其周末补假
+ ，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2030-qingming@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20300405
+DTEND;VALUE=DATE:20300406
+SUMMARY:清明节
+DESCRIPTION:法定节假日，全体公民放假1天（农历清明当日
+ ）。依据《国务院关于修改〈全国年节及纪念日放假办
+ 法〉的决定》（国务院令第795号）。本日历列出法定假
+ 日及其周末补假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2030-labour-day@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20300501
+DTEND;VALUE=DATE:20300503
+SUMMARY:劳动节
+DESCRIPTION:法定节假日，全体公民放假2天（5月1日、2日）
+ 。依据《国务院关于修改〈全国年节及纪念日放假办法
+ 〉的决定》（国务院令第795号）。本日历列出法定假日
+ 及其周末补假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2030-dragon-boat@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20300605
+DTEND;VALUE=DATE:20300606
+SUMMARY:端午节
+DESCRIPTION:法定节假日，全体公民放假1天（农历端午当日
+ ）。依据《国务院关于修改〈全国年节及纪念日放假办
+ 法〉的决定》（国务院令第795号）。本日历列出法定假
+ 日及其周末补假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2030-mid-autumn@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20300912
+DTEND;VALUE=DATE:20300913
+SUMMARY:中秋节
+DESCRIPTION:法定节假日，全体公民放假1天（农历中秋当日
+ ）。依据《国务院关于修改〈全国年节及纪念日放假办
+ 法〉的决定》（国务院令第795号）。本日历列出法定假
+ 日及其周末补假，不含调休和补班安排。
+URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2030-national-day@cn-holidays
+DTSTAMP:20241112T000000Z
+DTSTART;VALUE=DATE:20301001
+DTEND;VALUE=DATE:20301004
+SUMMARY:国庆节
+DESCRIPTION:法定节假日，全体公民放假3天（10月1日、2日、3
+ 日）。依据《国务院关于修改〈全国年节及纪念日放假
+ 办法〉的决定》（国务院令第795号）。本日历列出法定
+ 假日及其周末补假，不含调休和补班安排。
 URL:https://www.gov.cn/zhengce/content/202411/content_6986380.htm
 TRANSP:TRANSPARENT
 END:VEVENT

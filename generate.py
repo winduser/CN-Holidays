@@ -19,7 +19,7 @@ from lunar_python import Lunar, Solar
 
 # The amended regulations took effect on 2025-01-01, so FIRST_YEAR must not be earlier.
 FIRST_YEAR = 2027
-LAST_YEAR = 2027
+LAST_YEAR = 2030
 OUTPUT = pathlib.Path(__file__).with_name("cn-holidays.ics")
 
 SOURCE_URL = "https://www.gov.cn/zhengce/content/202411/content_6986380.htm"
